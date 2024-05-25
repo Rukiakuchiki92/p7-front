@@ -14,7 +14,7 @@ import seaborn as sns
 
 
 # URI de base pour l'API
-URI = "http://127.0.0.1:8000/"
+URI = "https://p7-back.onrender.com/"
 
 def call_prediction_api(client_id):
     try:
